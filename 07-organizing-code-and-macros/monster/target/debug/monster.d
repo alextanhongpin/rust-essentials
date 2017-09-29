@@ -1,0 +1,1 @@
+/Users/alextanhongpin/Documents/rust/rust-essential/07-organizing-code-and-macros/monster/target/debug/monster: /Users/alextanhongpin/Documents/rust/rust-essential/07-organizing-code-and-macros/monster/src/main.rs /Users/alextanhongpin/Documents/rust/rust-essential/07-organizing-code-and-macros/monster/src/lib.rs
